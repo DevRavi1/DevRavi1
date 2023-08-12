@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevRavi1
+- 👋 Hi, I’m @DevRaviP1
 - 👀 I’m interested in finance, sports
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on developing websites
